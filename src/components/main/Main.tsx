@@ -37,7 +37,7 @@ const Main = (props: Props) => {
         ></input>
         <button
           type="submit"
-          className="p-2 bg-yellow-400 rounded-sm ml-2 text-white"
+          className="p-2 bg-green-400 rounded-sm ml-2 text-white"
         >
           Add todo
         </button>
